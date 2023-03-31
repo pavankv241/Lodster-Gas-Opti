@@ -1,4 +1,5 @@
 # Lodster-Gas-Opti
+
 File no 1 :- 
 Comptroller.sol 
 Before optimization 
@@ -10,6 +11,7 @@ After Optimization
 gas	10084920 gas
 transaction cost	8769495 gas 
 execution cost	8107075 gas 
+
 --------------------------------------------------------------------------------------------------------------------
 
 File No 2 :- CErc20.sol
@@ -23,6 +25,7 @@ After :-
 gas	6854081 gas
 transaction cost	5960070 gas 
 execution cost	5503446 gas 
+
 ------------------------------------------------------------------------------------------------------------------
 
 File No :- 3 
